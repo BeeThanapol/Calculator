@@ -112,7 +112,7 @@
             
 
             <div class="inputs">
-                    <label>ผลลัพธ์ :</label>
+                    <label>ผลลัพธ์2 :</label>
                     <input type="number" name="output" placeholder="ผลลัพธ์" value="<?php echo $total ;?>" readonly>
                 </div>
             </div>
